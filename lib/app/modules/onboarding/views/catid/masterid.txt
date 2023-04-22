@@ -1,0 +1,16 @@
+hello, here are the cat/masterID for shop API-
+[
+  "5da7220571762c2a58b27a65", // Shirt 
+  "5da7220571762c2a58b27a67", // Trouser
+  "5da7220571762c2a58b27a66", // Suit
+  "5da7220571762c2a58b27a68", // Blazer
+  "5da7220571762c2a58b27a6a", // WaistCoat
+  "5da7220571762c2a58b27a6b", // Chino
+  "5da7220571762c2a58b27a6f", // Indowestern
+  "5da7220571762c2a58b27a6e", // Kurta
+  "5da7220571762c2a58b27a6c", // Jodhpuri
+  "5da7220571762c2a58b27a70", // Sherwani
+  "5da7220571762c2a58b27a6d", // Sadri
+  "5e6c843c3a2df13444183298", // TShirt
+  "5e6c845a3a2df13444183299" // Jeans
+]

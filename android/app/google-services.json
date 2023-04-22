@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475768094264",
+    "project_id": "styleclub-d6fd8",
+    "storage_bucket": "styleclub-d6fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475768094264:android:debdb77a2f5db289c8b0cd",
+        "android_client_info": {
+          "package_name": "com.sushil.styleclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475768094264-3e6ntc42i34v18sn197jodogbrqu7mai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sushil.styleclub",
+            "certificate_hash": "ea338f529bc48d7119f154912e102b9b4ce8a688"
+          }
+        },
+        {
+          "client_id": "475768094264-rvhmt7clqvqlua4k3odljd064rkpqb3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUAmO0fxFjb4ZtW6TAxCz9dkATgWJdGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475768094264-rvhmt7clqvqlua4k3odljd064rkpqb3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
